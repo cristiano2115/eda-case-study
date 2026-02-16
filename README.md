@@ -20,10 +20,3 @@ Pliki:
 ![Age distribution](reports/figures/age_distribution.png)
 ![Survival by sex](reports/figures/survival_by_sex.png)
 ![Survival by class](reports/figures/survival_by_class.png)
-
-## Jak uruchomić
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter notebook
